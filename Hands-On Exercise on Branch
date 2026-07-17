@@ -1,0 +1,12 @@
+Hands-On Exercise: Branch, Edit, Commit
+Try it yourself:
+1. Create a new branch called 
+add-about-page
+2. On that branch, create a new file called 
+about.md
+Click Add file then Create new file
+Name it 
+about.md
+Add a line: 
+This is my QGSS practice project.
+3. Write a clear commit message and commit the file
