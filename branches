@@ -1,0 +1,9 @@
+What Are Branches?
+A branch is a parallel copy of your project where you can make changes without affecting the
+
+main -- the primary branch; the "official" version
+Feature branches -- safe spaces to try changes before merging
+Merge back
+to main
+Branches let you experiment without risk. If something goes wrong, 
+main is untouched  
